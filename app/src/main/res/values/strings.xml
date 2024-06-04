@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">academy_android_kotlin_hw</string>
+    <string name="settings_item_title">Settings</string>
+    <string name="first_fragment_lb">First Fragment</string>
+    <string name="second_fragment_lb">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="basic_text">
+        Programming is the process of creating a set of instructions that tell a computer how to perform a task. It involves writing code using programming languages such as Python, Java, C++, or JavaScript. These languages allow programmers to instruct computers on what actions to take, enabling them to solve problems, automate processes, and develop software applications.\n\n
+        The field of programming encompasses various subfields, including web development (creating websites and web applications), mobile app development (designing apps for smartphones and tablets), game development (building interactive games), and system programming (writing operating systems and utilities). Each subfield requires different skills and knowledge, but they all share the core principles of logic, problem-solving, and algorithm design.\n\n
+        Programmers often work in teams, collaborating with designers, project managers, and other stakeholders to bring ideas to life. They may also contribute to open-source projects, where they collaborate with developers worldwide to improve existing software and create new tools and libraries\n\n
+        Learning to program can open up a wide range of career opportunities, from entry-level positions like junior developer to senior roles such as software architect or chief technology officer. Programming skills are highly sought after in many industries, including tech, finance, healthcare, and education, reflecting its importance in today s digital world.\n\n
+        In conclusion, programming is a fundamental skill in the modern era, essential for developing innovative solutions to complex problems. Whether you are building a simple website or designing a complex software application, programming is the key to turning ideas into reality.\n\n
+    </string>
+    <string name="coordinates">output: </string>
+</resources>
